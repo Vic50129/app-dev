@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
- # About My favorite series/movie
+ # About My favorite series/movie 
 
 | Series         | Description | Movie         | Description |
 |   :----:       |:----:       |    :----:     |:----:       |
